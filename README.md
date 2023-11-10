@@ -1,2 +1,24 @@
-# EDA-on-Noodles-Consumption-over-the-world
-Explore global noodle consumption trends with this EDA project. Uncover key insights, visualize consumption patterns, and gain a nuanced understanding of the factors influencing noodle preferences across different regions. Dive into the world of noodles and enhance your data-driven insights on this popular and diverse food choice.
+# EDA on Noodles Consumption Worldwide
+
+Welcome to the Exploratory Data Analysis (EDA) project on Noodles Consumption Worldwide. This project provides insights into global noodle consumption trends, offering a comprehensive analysis of consumption patterns and factors influencing preferences across different regions.
+
+## Overview
+
+This EDA project is designed to:
+
+- Analyze and visualize global noodle consumption data.
+- Identify key trends and patterns in noodle preferences.
+- Explore regional variations in noodle consumption.
+- Provide valuable insights for noodle manufacturers and enthusiasts.
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have the following dependencies installed:
+
+- Python 3
+- Jupyter Notebook
+
+```bash
+pip install -r requirements.txt
